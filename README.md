@@ -5,7 +5,7 @@
 - <b>Apple Fitness Promotional Email</b>
   - [Responsive Apple Fitness Email](https://doreen-guiler.github.io/Apple-Fitness-HTML-Email/)
 - <b>Moderna Clothing Promotional Email</b>
-  - [Responsive Fashion Promotional Email](https://deslandescg.github.io/LensCrafts-HTML-Email/)
+  - [Responsive Fashion Promotional Email](https://doreen-guiler.github.io/Moderna-Apparel-HTML-Email/)
 - <b>Zen Meditation Newsletter Email</b>
   - [Responsive Zen Meditation Newsletter](https://doreen-guiler.github.io/Zen-Meditation-HTML-Email/)
 - <b>Mobile Shop Transactional Email</b>
