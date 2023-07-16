@@ -3,7 +3,7 @@
 <h2>👩🏽‍💻 HTML Email Projects:</h2>
 
 - <b>Apple Fitness Promotional Email</b>
-  - [Responsive Apple Fitness Email](https://.github.io/Apple-Fitness-HTML-Email/)
+  - [Responsive Apple Fitness Email](https://doreen-guiler.github.io/Apple-Fitness-HTML-Email/)
 - <b>Moderna Clothing Promotional Email</b>
   - [Responsive Fashion Promotional Email](https://deslandescg.github.io/LensCrafts-HTML-Email/)
 - <b>Zen Meditation Newsletter Email</b>
