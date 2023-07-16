@@ -1,6 +1,6 @@
 <h1>Hello World, I'm Doreen! <br/><a href="https://Doreen-Guiler.github.io target=_blank">Web Designer</a>, <a href="https://www.linkedin.com/in/doreenguiler target="-blank">Web Developer (HTML Email Specialist)</a>
 
-<h2>👨‍💻 HTML Email Projects:</h2>
+<h2>👩🏽‍💻 HTML Email Projects:</h2>
 
 - <b>Apple Fitness Promotional Email</b>
   - [Responsive Apple Fitness Email from mockup](https://.github.io/Apple-Fitness-HTML-Email/)
