@@ -9,7 +9,7 @@
 - <b>Zen Meditation Newsletter Email</b>
   - [Responsive Zen Meditation Newsletter](https://doreen-guiler.github.io/Zen-Meditation-HTML-Email/)
 - <b>Mobile Shop Transactional Email</b>
-  - [Responsive Transactional Email](https://deslandescg.github.io/Project-Gateway-HTML-Email/)
+  - [Responsive Transactional Email](https://doreen-guiler.github.io/Mobile-Shop-HTML-Email/)
   
 <h2>Certifications</h2>
 
@@ -20,20 +20,22 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Chris Deslandes | LinkedIn" width="60px" src="https://i.ibb.co/3zn6mW3/linkedin.png" target="_blank" />][linkedin]
+[<img align="left" alt="Doreen Guiler-Deslandes | LinkedIn" width="60px" src="https://i.ibb.co/3zn6mW3/linkedin.png" target="_blank" />][linkedin]
 
 
 
 [linkedin]: www.linkedin.com/in/doreenguiler
 
-- 🌱 I’m currently learning Javascript.
+  🌱 I’m currently learning Javascript.
+  
+   🔭 I’m currently working on The Odin Project.
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
