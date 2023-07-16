@@ -7,7 +7,7 @@
 - <b>Moderna Clothing Promotional Email</b>
   - [Responsive LensCrafts Email](https://deslandescg.github.io/LensCrafts-HTML-Email/)
 - <b>Zen Meditation Newsletter Email</b>
-  - [Responsive Project Gateway Newsletter](https://deslandescg.github.io/Project-Gateway-HTML-Email/)
+  - [Responsive Project Gateway Newsletter](https://doreen-guiler.github.io/Zen-Meditation-HTML-Email/)
 - <b>Mobile Shop Transactional Email</b>
   - [Responsive Project Gateway Newsletter](https://deslandescg.github.io/Project-Gateway-HTML-Email/)
   
