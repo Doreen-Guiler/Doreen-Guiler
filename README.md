@@ -8,7 +8,7 @@
   - [Responsive LensCrafts Email](https://deslandescg.github.io/LensCrafts-HTML-Email/)
 - <b>Zen Meditation Newsletter Email</b>
   - [Responsive Project Gateway Newsletter](https://deslandescg.github.io/Project-Gateway-HTML-Email/)
-  - - <b>Mobile Shop Transactional Email</b>
+- <b>Mobile Shop Transactional Email</b>
   - [Responsive Project Gateway Newsletter](https://deslandescg.github.io/Project-Gateway-HTML-Email/)
   
 <h2>Certifications</h2>
