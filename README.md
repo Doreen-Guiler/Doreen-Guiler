@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Doreen! <br/><a href="https://Doreen-Guiler.github.io target="_blank">Web Designer</a>, <a href="https://www.linkedin.com/in/doreenguiler target="_blank">Web Developer (HTML Email Specialist)</a>
+<h1>Hello World, I'm Doreen! <br/><a href="https://doreen-guiler.github.io">Web Designer</a>, <a href="https://www.linkedin.com/in/doreenguiler">Web Developer (HTML Email Specialist)</a>
 
 <h2>👩🏽‍💻 HTML Email Projects:</h2>
 
