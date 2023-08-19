@@ -10,6 +10,10 @@
   - [Responsive Zen Meditation Newsletter](https://doreen-guiler.github.io/Zen-Meditation-HTML-Email/)
 - <b>Mobile Shop Transactional Email</b>
   - [Responsive Transactional Email](https://doreen-guiler.github.io/Mobile-Shop-HTML-Email/)
+- <b>Candle Promotional Newsletter Email</b>
+  - [[Responsive Candle Promo Email]((https://doreen-guiler.github.io/Candle-Promo-email/))
+
+
   
 <h2>Certifications</h2>
 
