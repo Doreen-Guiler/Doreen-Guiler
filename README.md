@@ -12,6 +12,10 @@
   - [Responsive Transactional Email](https://doreen-guiler.github.io/Mobile-Shop-HTML-Email/)
 - <b>Candle Promotional Newsletter Email</b>
   - [Responsive Candle Promo Email](https://doreen-guiler.github.io/Candle-Promo-email/)
+- <b>Amazon Gift Card Email Mockup</b>
+  - [Responsive Amazon Gift Card Email](https://doreen-guiler.github.io/Amazon-gift_card-email/)
+
+ 
 
 
   
@@ -19,7 +23,8 @@
 
 - freeCodeCamp.
 - Google Data Analytics Certification.
-- SalesForce CRM via Coursera.
+- Hubspot
+- Salesforce
 
 <h2> 🤳 Connect with me:</h2>
 
