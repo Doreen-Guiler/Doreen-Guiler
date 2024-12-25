@@ -21,35 +21,16 @@
   
 <h2>Certifications</h2>
 
-- freeCodeCamp.
-- Google Data Analytics Certification.
-- Hubspot
-- Salesforce
+- freeCodeCamp
+- Google Data Analytics Certification
+- Klaviyo
+- iterable
+- Workshop
+- Braze
 
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="Doreen Guiler-Deslandes | LinkedIn" width="60px" src="https://i.ibb.co/3zn6mW3/linkedin.png" target="_blank" />][linkedin]
-
-
+[<img align="center" alt="Doreen Guiler-Deslandes | LinkedIn" width="60px" src="https://i.ibb.co/3zn6mW3/linkedin.png" target="_blank" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/doreenguiler
 
-  🌱 I’m currently learning Javascript.
-  
-   🔭 I’m currently working on The Odin Project.
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
